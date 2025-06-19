@@ -1,5 +1,4 @@
-def function (name):
+def function(name):
  print (f"hello,{name}!")
 
-
- function("jupiter")
+function("jupiter")
